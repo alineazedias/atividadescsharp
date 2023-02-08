@@ -1,0 +1,45 @@
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.exe
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.deps.json
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.runtimeconfig.json
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.pdb
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.AssemblyInfo.cs
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\refint\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.pdb
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.genruntimeconfig.cache
+C:\Users\aline\Projetos PUC\meuPrimeiroPrograma\obj\Debug\net7.0\ref\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.exe
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.deps.json
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.runtimeconfig.json
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.pdb
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.AssemblyInfo.cs
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\refint\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.pdb
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.genruntimeconfig.cache
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\meuPrimeiroPrograma\obj\Debug\net7.0\ref\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\bin\Debug\net7.0\meuPrimeiroPrograma.exe
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\bin\Debug\net7.0\meuPrimeiroPrograma.deps.json
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\bin\Debug\net7.0\meuPrimeiroPrograma.runtimeconfig.json
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\bin\Debug\net7.0\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\bin\Debug\net7.0\meuPrimeiroPrograma.pdb
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\meuPrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\meuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\meuPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\meuPrimeiroPrograma.AssemblyInfo.cs
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\meuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\refint\meuPrimeiroPrograma.dll
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\meuPrimeiroPrograma.pdb
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\meuPrimeiroPrograma.genruntimeconfig.cache
+C:\Users\aline\Projetos PUC\Algoritmos e Abstração de Dados\atv1\obj\Debug\net7.0\ref\meuPrimeiroPrograma.dll
